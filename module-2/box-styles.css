@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-transform: capitalize ;
+    padding: 50px;
+    border: 1px dashed #5d6063;
+    border-left: 1px double red;
+    border-right: 1px dotted greenyellow;
+}
+h1, p {
+    background-color: #dde0e3;
+}
+em, strong {
+    background-color: #b2d6ff;
+}
+p {
+    padding: 20px 0 20px 10px;
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+strong {
+    margin: 50px;
+}
+div.pulsante {
+    color: #fff;
+    background-color: #5995da;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5d6063;
+    border-radius: 5px;
+    width: 200px;
+    margin: auto;
+}
