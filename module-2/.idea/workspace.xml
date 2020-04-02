@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a218f97d-525d-4f73-92ef-9e9a034786eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test1/.idea/test1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prr1.php" beforeDir="false" afterPath="$PROJECT_DIR$/prr1.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +59,24 @@
       <updated>1585862126314</updated>
       <workItem from="1585862128382" duration="121000" />
       <workItem from="1585862282704" duration="2870000" />
-      <workItem from="1585869798784" duration="331000" />
+      <workItem from="1585869798784" duration="625000" />
     </task>
+    <task id="LOCAL-00001" summary="1^ commit seconda prova php">
+      <created>1585870206305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585870206305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1^ commit seconda prova php" />
+    <option name="LAST_COMMIT_MESSAGE" value="1^ commit seconda prova php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="75" key="#CLI_Interpreters" timestamp="1585865131113">
@@ -79,6 +87,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="0" y="23" key="#PHP/0.23.1280.777@0.23.1280.777" timestamp="1585865202217" />
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1585870205943">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1585870205943" />
     <state x="471" y="348" key="NewPhpFileDialog" timestamp="1585862333251">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
