@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a218f97d-525d-4f73-92ef-9e9a034786eb" name="Default Changelist" comment="" />
+    <list default="true" id="a218f97d-525d-4f73-92ef-9e9a034786eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,8 +21,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1a0ARDngaBctlAp5ysidi0cBJtq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +40,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -46,11 +59,24 @@
       <updated>1585862126314</updated>
       <workItem from="1585862128382" duration="121000" />
       <workItem from="1585862282704" duration="2870000" />
+      <workItem from="1585869798784" duration="625000" />
     </task>
+    <task id="LOCAL-00001" summary="1^ commit seconda prova php">
+      <created>1585870206305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585870206305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1^ commit seconda prova php" />
+    <option name="LAST_COMMIT_MESSAGE" value="1^ commit seconda prova php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="75" key="#CLI_Interpreters" timestamp="1585865131113">
@@ -61,6 +87,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="0" y="23" key="#PHP/0.23.1280.777@0.23.1280.777" timestamp="1585865202217" />
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1585870205943">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1585870205943" />
     <state x="471" y="348" key="NewPhpFileDialog" timestamp="1585862333251">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -69,5 +99,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="48" y="33" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1585865134257" />
+    <state x="429" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585869842958">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="429" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1585869842958" />
   </component>
 </project>
