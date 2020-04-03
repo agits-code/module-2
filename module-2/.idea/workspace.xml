@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a218f97d-525d-4f73-92ef-9e9a034786eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a218f97d-525d-4f73-92ef-9e9a034786eb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
       <updated>1585862126314</updated>
       <workItem from="1585862128382" duration="121000" />
       <workItem from="1585862282704" duration="2870000" />
-      <workItem from="1585869798784" duration="625000" />
+      <workItem from="1585869798784" duration="863000" />
     </task>
     <task id="LOCAL-00001" summary="1^ commit seconda prova php">
       <created>1585870206305</created>
@@ -68,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585870206305</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2^ commit seconda prova php">
+      <created>1585870862874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585870862874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +81,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1^ commit seconda prova php" />
-    <option name="LAST_COMMIT_MESSAGE" value="1^ commit seconda prova php" />
+    <MESSAGE value="2^ commit seconda prova php" />
+    <option name="LAST_COMMIT_MESSAGE" value="2^ commit seconda prova php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="75" key="#CLI_Interpreters" timestamp="1585865131113">
@@ -87,10 +93,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="0" y="23" key="#PHP/0.23.1280.777@0.23.1280.777" timestamp="1585865202217" />
-    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1585870205943">
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1585870862647">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1585870205943" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1585870862647" />
     <state x="471" y="348" key="NewPhpFileDialog" timestamp="1585862333251">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -99,6 +105,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="48" y="33" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1585865134257" />
+    <state x="240" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585870899461">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="162" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1585870899461" />
     <state x="429" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585869842958">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
